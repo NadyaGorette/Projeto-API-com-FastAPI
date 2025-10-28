@@ -8,7 +8,7 @@ O objetivo é demonstrar conceitos fundamentais de desenvolvimento de APIs moder
 - Respostas em formato JSON  
 - Teste local com o servidor **Uvicorn**  
 - Integração com **Pydantic** para validação de dados  
-- (opcional) Conexão com banco de dados
+
 
 ---
 
