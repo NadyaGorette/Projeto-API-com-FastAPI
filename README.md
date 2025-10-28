@@ -18,4 +18,3 @@ O objetivo é demonstrar conceitos fundamentais de desenvolvimento de APIs moder
 - **FastAPI**  
 - **Uvicorn**  
 - **Pydantic**  
-- (opcional) **SQLAlchemy** / **SQLite**
